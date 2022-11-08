@@ -1,7 +1,7 @@
 body {
-	background: #eb34cf important!;
-	font-style: italic important!;
-	--fastentry-treegrid-checkbox-border-color: purple important!;
-	--fastentry-treegrid-checkbox-background-color: red important!;
-	--fastentry-treegrid-checkbox-color: yellow important!;
+	background: #eb34cf !important;
+	font-style: italic !important;
+	--fastentry-treegrid-checkbox-border-color: purple !important;
+	--fastentry-treegrid-checkbox-background-color: red !important;
+	--fastentry-treegrid-checkbox-color: yellow !important;
 }
