@@ -1,12 +1,12 @@
 body {
-    background: green;
-    --lumo-primary-color: red;
-    --lumo-primary-color-10pct: red;
-    --lumo-primary-color-20pct: red;
-    --lumo-body-text-color: red;
-    --lumo-header-text-color: red;
+  background: green;
+  --lumo-primary-color: red;
+  --lumo-primary-color-10pct: red;
+  --lumo-primary-color-20pct: red;
+  --lumo-body-text-color: red;
+  --lumo-header-text-color: red;
 }
 
 .uwp-login {
-    background: -webkit-linear-gradient(right,red,green);
+  background: -webkit-linear-gradient(right,red,green);
 }
