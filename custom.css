@@ -6,5 +6,7 @@ body {
     --lumo-body-text-color: red;
     --lumo-header-text-color: red;
 }
+
 .uwp-login {
-    background: -webkit-linear-gradient(right,red,green);}
+    background: -webkit-linear-gradient(right,red,green);
+}
