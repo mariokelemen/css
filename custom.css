@@ -1,10 +1,10 @@
 body {
   background: green;
-  --lumo-primary-color: purple;
+  --lumo-primary-color: blue;
   --lumo-primary-color-10pct: red;
   --lumo-primary-color-20pct: red;
   --lumo-body-text-color: red;
-  --lumo-header-text-color: pink;
+  --lumo-header-text-color: green;
 }
 
 .uwp-login {
