@@ -1,7 +1,10 @@
 body {
-	background: #eb34cf !important;
-	font-style: italic !important;
-	--fastentry-treegrid-checkbox-border-color: purple !important;
-	--fastentry-treegrid-checkbox-background-color: red !important;
-	--fastentry-treegrid-checkbox-color: green !important;
+    background: green;
+    --lumo-primary-color: red;
+    --lumo-primary-color-10pct: red;
+    --lumo-primary-color-20pct: red;
+    --lumo-body-text-color: red;
+    --lumo-header-text-color: red;
 }
+.uwp-login {
+    background: -webkit-linear-gradient(right,red,green);}
